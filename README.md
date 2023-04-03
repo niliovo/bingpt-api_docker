@@ -65,7 +65,7 @@ docker run -itd --name bingpt-api --hostname bingpt-api --net bridge -p 3000:300
 - [Docker Hub](https://hub.docker.com/)
 - [中科大源](https://mirrors.ustc.edu.cn/)
 
-# bingpt_docker EN
+# bingpt-api_docker EN
 
 - [Github](https://github.com/niliovo/bingpt-api_docker)
 - [Docker Hub](https://hub.docker.com/r/niliaerith/bingpt-api)
@@ -82,7 +82,7 @@ docker run -itd --name bingpt-api --hostname bingpt-api --net bridge -p 3000:300
 
 ## Docker Compose Usage Guide
 
-- bingpt
+- bingpt-api
 
 ```compose.yml
   bingpt-api:
